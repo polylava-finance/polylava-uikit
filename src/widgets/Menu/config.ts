@@ -129,21 +129,22 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    items: [
-      {
-        label: "English",
-        href: "https://t.me/maticswapchat",
-      },
-      {
-        label: "Announcements",
-        href: "https://t.me/maticswap",
-      },
-    ],
+    href: "https://t.me/polylavacake"
+    // items: [
+    //   {
+    //     label: "English",
+    //     href: "https://t.me/maticswapchat",
+    //   },
+    //   {
+    //     label: "Announcements",
+    //     href: "https://t.me/maticswap",
+    //   },
+    // ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/MaticSwap",
+    href: "https://twitter.com/PolyLavaCake",
   },
 ];
 
